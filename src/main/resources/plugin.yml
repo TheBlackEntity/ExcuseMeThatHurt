@@ -1,0 +1,5 @@
+name: ExcuseMeThatHurt
+version: '${project.version}'
+main: me.entity303.excusemethathurt.ExcuseMeThatHurt
+api-version: '1.20'
+authors: [Entity303]
