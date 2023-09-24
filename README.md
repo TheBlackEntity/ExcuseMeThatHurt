@@ -7,6 +7,10 @@ Iron Golems will get angry at you if you do this to villagers.
 
 You will also get the Bad Omen effect by killing a Pillager Captain with a cheesy method.
 
+
+This plugin was inspired by this mod:
+https://github.com/Khajiitos/ISWYDT
+
 ## Installation
 
 1. Download or compile the JAR
