@@ -72,6 +72,6 @@ SpecialCases:
 </details>
 
 ## Support
-Discord: https://discord.gg/dBhfCzdZxq
+Discord: [https://discord.gg/dBhfCzdZxq](https://discord.gg/GxEFhVY6ff)
 
 Github: [Issues Page](https://github.com/TheBlackEntity/ExcuseMeThatHurt/issues)
